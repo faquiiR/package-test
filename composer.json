@@ -11,7 +11,7 @@
             "email": "858518145@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
 	"autoload": {
 		"psr-4": {
 			"Huy\\": "src/"
