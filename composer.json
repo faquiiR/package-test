@@ -1,0 +1,20 @@
+{
+    "name": "huy/test",
+    "description": "composer and package.list test.",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hushaofei",
+            "email": "858518145@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"Huy\\": "src/"
+		}
+	}
+}
